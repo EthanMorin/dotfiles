@@ -1,0 +1,11 @@
+shell fish
+
+font_size 12
+font_family JetBrainsMono NF
+
+
+
+# BEGIN_KITTY_THEME
+# Teerb
+include current-theme.conf
+# END_KITTY_THEME
