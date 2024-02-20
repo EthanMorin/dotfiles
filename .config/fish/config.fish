@@ -5,7 +5,7 @@ function fish_greeting
  
 end
 
-alias lg="sudo lazygit"
+alias lg="lazygit"
 alias ld="sudo lazydocker"
 
 set -x GOPATH $HOME/go
