@@ -5,6 +5,9 @@ function fish_greeting
  
 end
 
+alias lg="sudo lazygit"
+alias ld="sudo lazydocker"
+
 set -x GOPATH $HOME/go
 set -x PATH $PATH $GOPATH/bin
 starship init fish | source
