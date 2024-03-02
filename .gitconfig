@@ -5,7 +5,7 @@
 	process = git-lfs filter-process
 [user]
 	name = EthanMorin
-	email = EthanMorin2004@gmail.com
+	email = 119540016+EthanMorin@users.noreply.github.com
 [safe]
 	directory = /home/ethanm/MEGA/school/y2/q3/DistributedSystems/GamesOAPI
 [credential "https://github.com"]
