@@ -7,7 +7,8 @@ end
 
 alias lg="lazygit"
 alias ld="sudo lazydocker"
-alias ls="eza -a"
+alias ls="eza -a -l"
+alias sl="sl -5"
 alias z="zi"
 
 set -x GOPATH $HOME/go
