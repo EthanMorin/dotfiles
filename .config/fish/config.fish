@@ -10,6 +10,7 @@ alias ld="sudo lazydocker"
 alias ls="eza -a -l"
 alias sl="sl -5"
 alias z="zi"
+alias q="exit"
 
 set -x GOPATH $HOME/go
 set -x PATH $PATH $GOPATH/bin
