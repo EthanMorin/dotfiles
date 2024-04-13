@@ -4,3 +4,4 @@ git pull
 stow --adopt .
 git restore .
 
+#yay -S 
