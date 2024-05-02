@@ -9,7 +9,7 @@ alias lg="lazygit"
 alias ld="sudo lazydocker"
 alias ls="eza -a -l"
 alias sl="sl -5"
-alias q="quit"
+alias q="exit"
 alias po="poweroff"
 
 set -x GOPATH $HOME/go
