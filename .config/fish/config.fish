@@ -11,6 +11,7 @@ alias ls="eza -a -l"
 alias sl="sl -5"
 alias q="exit"
 alias po="poweroff"
+alias anime="ani-cli"
 
 set -x GOPATH $HOME/go
 set -x PATH $PATH $GOPATH/bin
