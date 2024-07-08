@@ -12,7 +12,6 @@ alias sl="sl -5"
 alias q="exit"
 alias po="poweroff"
 alias anime="ani-cli"
-alias nvim="sudo nvim"
 
 set -x GOPATH $HOME/go
 set -x PATH $PATH $GOPATH/bin
