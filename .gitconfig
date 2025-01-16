@@ -4,7 +4,7 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = ethan
+	name = EthanMorin
 	email = ethanmorin2004@gmail.com
 [credential "https://github.com"]
 	helper = 
