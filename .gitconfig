@@ -1,13 +1,11 @@
 [filter "lfs"]
-	required = true
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
+	required = true
 [user]
-	name = EthanMorin
-	email = 119540016+EthanMorin@users.noreply.github.com
-[safe]
-	directory = /home/ethanm/MEGA/school/y2/q3/DistributedSystems/GamesOAPI
+	name = ethan
+	email = ethanmorin2004@gmail.com
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
